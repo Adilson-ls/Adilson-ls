@@ -1,4 +1,4 @@
-##  Olá eu sou uma Adilson-ls,estou iniciando os estudos em programação e tecnologia!
+##  Olá eu sou Adilson-ls,estou iniciando os estudos em programação e tecnologia!
 
 <div align = "center">
   <a href="https://github.com/Adilson-ls">
