@@ -329,14 +329,14 @@ section .title::after{
 }
 
 .services .serv-content .card{
-    margin: 11px;
-    width: calc(33% - 20px);
+    margin: 15px;
+    width: calc(39% - 20px);
     background: #222;
     text-align: center;
-    border-radius: 6px;
+    border-radius: 9px;
     padding: 35px 25px;
     cursor: pointer;
-    transition: all 0.3s ease;
+    transition: all 0.4s ease;
 }
 
 .services .serv-content .card:hover{
