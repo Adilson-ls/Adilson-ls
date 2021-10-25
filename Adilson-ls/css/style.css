@@ -202,6 +202,7 @@ section .title::after{
 .home{
     display: flex;
     background: url("images/perfil.svg") no-repeat center;
+    background: url("images/perfilNovo.jpeg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
