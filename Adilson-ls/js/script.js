@@ -1,13 +1,13 @@
 $(document).ready(function(){
     $(window).scroll(function(){
-        // sticky navbar on scroll script
+        // barra de navegação fixa no script de rolagem
         if(this.scrollY > 20){
             $('.navbar').addClass("sticky");
         }else{
             $('.navbar').removeClass("sticky");
         }
         
-        // scroll-up button show/hide script
+        // botão de rolagem para cima mostrar / ocultar script
         if(this.scrollY > 500){
             $('.scroll-up-btn').addClass("show");
         }else{
@@ -15,19 +15,19 @@ $(document).ready(function(){
         }
     });
 
-    // slide-up script
+    // roteiro deslizante
     $('.scroll-up-btn').click(function(){
         $('html').animate({scrollTop: 0});
-        // removing smooth scroll on slide-up button click
+        // removendo a rolagem suave no clique do botão deslizante
         $('html').css("scrollBehavior", "auto");
     });
 
     $('.navbar .menu li a').click(function(){
-        // applying again smooth scroll on menu items click
+        // aplicando novamente a rolagem suave nos itens do menu, clique
         $('html').css("scrollBehavior", "smooth");
     });
 
-    // toggle menu/navbar script
+    // menu de alternância / script da barra de navegação
     $('.menu-btn').click(function(){
         $('.navbar .menu').toggleClass("active");
         $('.menu-btn i').toggleClass("active");
@@ -35,12 +35,12 @@ $(document).ready(function(){
 
     var typed = new Typed(".typing", {
         strings: ["Estudante de Desenvolvilmento", "Cursando", "Análise e Desenvolvimento de Sistemas", "Freelancer",  ],
-        typeSpeed: 100,
+        typeSpeed: 50,
         backSpeed: 60,
         loop: true
     });
 
-    // owl carousel script
+    // script de carrossel de coruja
     $('.carousel').owlCarousel({
         margin: 20,
         loop: true,
