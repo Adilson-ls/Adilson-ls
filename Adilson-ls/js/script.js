@@ -15,7 +15,7 @@ $(document).ready(function(){
         }
     });
 
-    // roteiro deslizante
+ /*   // roteiro deslizante
     $('.scroll-up-btn').click(function(){
         $('html').animate({scrollTop: 0});
         // removendo a rolagem suave no clique do botão deslizante
@@ -60,5 +60,5 @@ $(document).ready(function(){
                 nav: false
             }
         }
-    });
+    */  });
 });

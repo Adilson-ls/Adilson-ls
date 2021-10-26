@@ -7,11 +7,11 @@
     text-decoration: none;
 }
 
-html{
+/*html{
     scroll-behavior: smooth;
 }
 
-/* custom scroll bar */
+/* custom scroll bar 
 
 ::-webkit-scrollbar {
     width: 10px;
@@ -29,7 +29,7 @@ html{
     background: #555;
 }
 
-/* all similar content styling codes */
+/* todos os códigos de estilo de conteúdo semelhantes
 
 section{
     padding: 100px 0;
@@ -52,7 +52,7 @@ section{
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 section .title{
@@ -87,7 +87,7 @@ section .title::after{
     transform: translateX(-50%);
 }
 
-/* navbar styling */
+/* estilo da barra de navegação
 
 .logo {
     margin-top: -10px;
@@ -157,7 +157,7 @@ section .title::after{
 
 }
 
-/* menu btn styling */
+/* estilo do menu btn
 
 .menu-btn{
     color: rgb(20, 238, 238);
@@ -198,7 +198,7 @@ section .title::after{
     border: #00FFFF solid 1px;
 }
 
-/* home section styling */
+/* estilo da seção home 
 .home{
     display: flex;
     background: url("../images/perfil.svg") no-repeat center;
@@ -257,7 +257,7 @@ section .title::after{
     border: #00FFFF solid 1px;
 }
 
-/* about section styling */
+/* sobre o estilo da seção "Curriculo"
 
 .about .title::after{
     content: "quem sou eu";
@@ -310,7 +310,7 @@ section .title::after{
     background: none;
 }
 
-/* services section styling */
+/* estilo da seção de serviços
 
 .services, .teams{
     color:#fff;
@@ -368,7 +368,7 @@ section .title::after{
     font-weight: 500;
     margin: 10px 0 7px 0;
 }
-/* skills section styling */
+/* estilo de seção de skills
 
 .skills .title::after{
     content: "Tecnologias que utilizo";
@@ -473,9 +473,9 @@ section .title::after{
 
 .tecnologias .content .tecnologiasBx{
     padding: 40px 20px;
-    background: #ffff; /*F0FFFF B0C4DE #B0C4DE*/
-    color: black; /*#fff*/
-    max-width: 20%; /*300 340*/
+    background: #ffff; /*F0FFFF B0C4DE #B0C4DE
+    color: black; /*#fff
+    max-width: 20%; /*300 340
     margin: 20px;
     text-align: center;
     transform: 0.5s;
@@ -485,9 +485,9 @@ section .title::after{
 }
 
 .tecnologias .content .tecnologiasBx:hover{
-    background: #fff; /*MUDAR A COR 87CEEB 00BFFF*/
+    background: #fff; /*MUDAR A COR 87CEEB 00BFFF
     top:-2px;
-    box-shadow:0 4px 4px #00BFFF/*#666*/;
+    box-shadow:0 4px 4px #00BFFF/*#666;
     -webkit-transform: scale(1.1);
     -ms-transform: scale(1.1);
     transform: scale(1.1);
@@ -505,7 +505,7 @@ section .title::after{
     font-weight: 600;
 }
 
-/* teams section styling */
+/* estilo da seção projetos
 
 .teams {
     height: 55vh;
@@ -587,7 +587,7 @@ section .title::after{
 .owl-dot:hover{
     background: rgb(1, 196, 202)!important;
 }
-/* contact section styling */
+/* contact section styling 
 
 .contact .title::after{
     content: "me encontre";
@@ -701,7 +701,7 @@ section .title::after{
     color: rgb(1, 196, 202);
     background: none;
   }
-/* footer section styling */
+/* estilo da seção do rodapé
 
 footer{
     background: #111;
@@ -826,7 +826,7 @@ h3 {
     transition: all 0.3s ease;
 }
 
-/* responsive media query start */
+/* responsive media query start 
 @media (max-width: 1104px) {
     .about .about-content .left img{
         height: 200px;
