@@ -220,11 +220,11 @@ section .title::after{
 }
 
 .home .home-content .text-1{
-    font-size: 27px;
+    font-size: 22px;
 }
 
 .home .home-content .text-2{
-    font-size: 75px;
+    font-size: 50px;
     font-weight: 600;
     margin-left: -3px;
   }
@@ -236,6 +236,16 @@ section .title::after{
 
 .home .home-content .text-3 span{
     color: rgb(238, 71, 196);
+    font-weight: 500;
+}
+
+.text-1 {
+    color: rgba(121, 71, 238, 0.849);
+    font-weight: 500;
+}
+
+.text-2 {
+    color: rgba(49, 223, 57, 0.664);
     font-weight: 500;
 }
 
