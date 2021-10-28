@@ -10,9 +10,6 @@
 </div>
 
 ##
-<<<<<<< HEAD
-
-=======
  
  ![ Animação de cobra ] (https://github.com/Adilson-ls/Adilson-ls/imagens/cobrinha.svg)
  
