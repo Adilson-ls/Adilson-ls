@@ -11,7 +11,7 @@ html{
     scroll-behavior: smooth;
 }
 
-/* custom scroll bar */
+/* barra de rolagem personalizada */
 
 ::-webkit-scrollbar {
     width: 10px;
@@ -29,7 +29,7 @@ html{
     background: #555;
 }
 
-/* all similar content styling codes */
+/* todos os códigos de estilo de conteúdo semelhante */
 
 section{
     padding: 100px 0;
@@ -87,7 +87,7 @@ section .title::after{
     transform: translateX(-50%);
 }
 
-/* navbar styling */
+/* estilo da barra de navegação */
 
 .logo {
     margin-top: -10px;
@@ -157,7 +157,7 @@ section .title::after{
 
 }
 
-/* menu btn styling */
+/*estilo do botão de  menu */
 
 .menu-btn{
     color: rgb(20, 238, 238);
@@ -198,7 +198,7 @@ section .title::after{
     border: #00FFFF solid 1px;
 }
 
-/* home section styling */
+/* estilo da seção inicial */
 .home{
     display: flex;
     background: url("../images/perfil.svg") no-repeat center;
@@ -267,7 +267,7 @@ section .title::after{
     border: #00FFFF solid 1px;
 }
 
-/* about section styling */
+/* estilo da seção sobre */
 
 .about .title::after{
     content: "quem sou eu";
@@ -320,7 +320,7 @@ section .title::after{
     background: none;
 }
 
-/* services section styling */
+/* estilo da seção de serviços */
 
 .services, .teams{
     color:#fff;
@@ -378,7 +378,7 @@ section .title::after{
     font-weight: 500;
     margin: 10px 0 7px 0;
 }
-/* skills section styling */
+/* estilo de seção de habilidades */
 
 .skills .title::after{
     content: "Tecnologias que utilizo";
@@ -515,7 +515,7 @@ section .title::after{
     font-weight: 600;
 }
 
-/* teams section styling */
+/* estilo da seção teams */
 
 .teams {
     height: 55vh;
@@ -597,7 +597,7 @@ section .title::after{
 .owl-dot:hover{
     background: rgb(1, 196, 202)!important;
 }
-/* contact section styling */
+/* estilo da seção contatos */
 
 .contact .title::after{
     content: "me encontre";
@@ -711,7 +711,7 @@ section .title::after{
     color: rgb(1, 196, 202);
     background: none;
   }
-/* footer section styling */
+/* estilo da seção rodapé */
 
 footer{
     background: #111;
