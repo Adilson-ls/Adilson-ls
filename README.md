@@ -1,3 +1,4 @@
+
 ##  Olá eu sou _*Adilson-ls*_,estou iniciando os estudos em programação e tecnologia!
  
 ### Curso Analise e Desenvolvimento de Sistemas!
@@ -9,6 +10,5 @@
 </div>
 
 ##
-
  
- 
+ ![ Animação de cobra ] (https://github.com/Adilson-ls/Adilson-ls/imagens/cobrinha.svg)
