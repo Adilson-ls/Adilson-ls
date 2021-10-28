@@ -1,7 +1,7 @@
-<h4 align = "center">
+<!--<h4 align = "center">
  
 ! [ ... ] (https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
-
+-->
 ##  Olá eu sou _*Adilson-ls*_,estou iniciando os estudos em programação e tecnologia!
  
 ### Curso Analise e Desenvolvimento de Sistemas!
@@ -15,7 +15,7 @@
 ##
 
 
- <div style = "display: inline_block"> <br>
+<!--> <div style = "display: inline_block"> <br>
   <img align = "center" alt = "Js" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain .svg ">
   <img align = "center" alt = "HTML" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original .svg ">
   <img align = "center" alt = "CSS" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original .svg ">
@@ -34,3 +34,4 @@
    ! [ Animação de cobra ] (https://github.com/Adilson-ls/Adilson-ls/imagens/cobrinha.svg)
  
  
+-->
