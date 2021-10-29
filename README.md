@@ -11,4 +11,4 @@
 
 ##
  
- ![ Animação de cobra ] (https://github.com/Adilson-ls/Adilson-ls/TESTE/imagens/cobrinha.svg)
+ ![ Animação da Cobra ](https://github.com/Adilson-ls/Adilson-ls/blob/output/Adilson-ls/cb.svg)
