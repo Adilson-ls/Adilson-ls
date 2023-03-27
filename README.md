@@ -3,6 +3,8 @@
  
 ### Curso Analise e Desenvolvimento de Sistemas!
 
+[![ blog ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adilson-ls/)
+
 <div align = "center">
   <a href="https://github.com/Adilson-ls">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=Adilson-ls&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
