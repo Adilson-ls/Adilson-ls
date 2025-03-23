@@ -1,7 +1,8 @@
 
-##  Olá eu sou _*Adilson-ls*_,estou iniciando os estudos em programação e tecnologia!
+##  Olá eu sou _*Adilson-ls*_,Entusiasta de programação e tecnologia!
  
-### Curso Analise e Desenvolvimento de Sistemas!
+### Formação em Analise e Desenvolvimento de Sistemas!
+### Crusando Ciência da Conputação!
 
 [![ blog ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adilson-ls/)
 
